@@ -1,8 +1,8 @@
 :root {
-    --page-1-color : steelblue;
-    --page-2-color : tan;
-    --page-3-color : teal;
-    --page-4-color : slateblue;
+    --page-1-color : #ffd6ff;
+    --page-2-color : #e7c6ff;
+    --page-3-color : #c8b6ff;
+    --page-4-color : #b8c0ff;
     --animate-speed: 1s;
 }
 
